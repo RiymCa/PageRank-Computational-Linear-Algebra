@@ -15,3 +15,6 @@ The project focuses on computing the principal eigenvector of column-stochastic 
 * **Exercises/**: Contains theoretical derivations and computational exercises.
   * `Exercises.pdf` & `Exercises.ipynb`: Mathematical proofs, eigenvalue analysis, and Python implementations of the exercises.
   * `convergence.pdf`: Plots demonstrating the convergence rate of the Power Method.
+### Authors
+* Nima Shadab
+* Riym Chaoui Aziz
